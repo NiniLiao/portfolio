@@ -121,6 +121,10 @@ h6 {
   background-color: var(--mainColor);
 }
 
+#navigation a {
+  color: var(--mainText);
+}
+
 #navigation {
   margin: 0;
   padding: 10px;
